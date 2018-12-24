@@ -1,0 +1,18 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Chaos Code;Chaos Code;Sega Ring;;;;;;;;;0;;;;;
+Sega Dream Raiders;Sega Dream Raiders;Sega Ring;;;;;;;;;0;;;;;
+Gacchu Guts - Mushiking Battle Gacchu-Guts
+Gettenka War History
+Let's Go Island;Let's Go Island;Sega Ring;;;;;;;;;0;;;;; 
+Lilpri Yubipuru Hime Chen!
+Lilpri Yubipuru Hime Chen! 2
+Lilpri Yubipuru Hime Chen! 3
+Medaru no Gunman
+Melty Blood Actress Again Current Code;Melty Blood Actress Again Current Code;Sega Ring;;;;;;;;;0;;;;;
+Operation G.H.O.S.T.;Operation G.H.O.S.T.;Sega Ring;;;;;;;;;0;;;;;
+Pengo / Pongoe
+Sangokushi Taisen HA / Samurai Wars / Warring States
+Sega Sonic All-Stars Racing;Sonic Sega All Stars Racing Arcade;Sega Ring;;;;;;;;;0;;;;;
+Sega Golden Gun;Sega Golden Gun;Sega Ring;;;;;;;;;0;;;;;
+Sega Racing Classic;Sega Racing Classic;Sega Ring;;;;;;;;;0;;;;;
+Tetris The Grand Master 4: The Masters of Roun

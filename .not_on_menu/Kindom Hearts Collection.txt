@@ -1,0 +1,6 @@
+Kingdom Hearts - 358-2 Days (USA) (En,Fr);Kingdom Hearts - 358-2 Days;Nintendo DS;;;;;;;;;0;;;;;
+Kingdom Hearts - Re-coded (USA) (En,Fr,Es);Kingdom Hearts - Re-coded;Nintendo DS;;;;;;;;;0;;;;;
+Kingdom Hearts - Chain of Memories (USA);Kingdom Hearts - Chain of Memories (USA);Nintendo Game Boy Advance;;2004;Square Enix;Role-Playing;;;;;0;;;;;
+Kingdom Hearts (USA);Kingdom Hearts (USA);Sony PlayStation 2;;2002;SquareSoft;Role-Playing;;;;;0;;;;;
+Kingdom Hearts II (USA);Kingdom Hearts II (USA);Sony PlayStation 2;;2006;Square Enix;Role-Playing;;;;;0;;;;;
+Kingdom Hearts Re-Chain of Memories (USA);Kingdom Hearts Re-Chain of Memories (USA);Sony PlayStation 2;;2008;Jupiter Corporation;Role-Playing;;;;;0;;;;;

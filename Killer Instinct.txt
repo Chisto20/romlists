@@ -1,0 +1,13 @@
+kinst;kinst;Arcade;;;;;;;;;;;;;;
+kinst2;kinst2;Arcade;;;;;;;;;;;;;;
+kinst;kinst;MAME;;;;;;;;;;;;;;
+kinst2;kinst2;MAME;;;;;;;;;;;;;;
+kinst;kinst;MAME (Advance);;;;;;;;;;;;;;
+kinst2;kinst2;MAME (Advance);;;;;;;;;;;;;;
+kinst;kinst;MAME (Libretro);;;;;;;;;;;;;;
+kinst2;kinst2;MAME (Libretro);;;;;;;;;;;;;;
+kinst;kinst;MAME (Mame4all);;;;;;;;;;;;;;
+kinst2;kinst2;MAME (Mame4all);;;;;;;;;;;;;;
+Killer Instinct (USA, Europe);Killer Instinct (USA, Europe);Nintendo Game Boy;;1995;Nintendo;Fighter;;;;;0;;;;;
+Killer Instinct Gold (USA) (Rev B);Killer Instinct Gold (USA) (Rev B);Nintendo 64;;1996;Nintendo;Fighter;;;;;0;;;;;
+Killer Instinct (USA);Killer Instinct (USA);Super Nintendo Entertainment System;;1995;Nintendo;Fighting;2;;;;;;;;;

@@ -1,0 +1,6 @@
+Civilization (USA);Civilization (USA);Atari ST;;1993;MicroProse;Strategy;;;;;0;;;;;
+Civilization_v1.0_AGA_1633;Civilization;Commodore Amiga;;;;;;;;;0;;;;;
+Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It);Sid Meier's Civilization Revolution;Nintendo DS;;;;;;;;;0;;;;;
+Civilization II (USA);Civilization II (USA);Sony PlayStation;;1999;Activision;Strategy;;;;;0;;;;;
+Civilization II (USA);Civilization II (USA);Sony PSP;;1999;Activision;Strategy;;;;;0;;;;;
+Civilization (USA);Civilization (USA);Super Nintendo Entertainment System;;1994;Microprose;Strategy;;;;;0;;;;;

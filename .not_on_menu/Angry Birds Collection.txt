@@ -1,0 +1,7 @@
+Angry Birds;Angry Birds;Sega Mega Drive Hacks;;;;;;;;;;;;;;
+Angry Birds - Star Wars;Angry Birds - Star Wars;Sega Mega Drive Hacks;;;;;;;;;;;;;;
+Angry Birds (USA);Angry Birds;Sony PSP Minis;;2011;Rovio;Action;;;;;0;;;;;
+Angry Birds - Star Wars (USA);Angry Birds - Star Wars (USA);Nintendo Wii;;2013;Activision;Puzzle;;;;;0;;;;;
+Angry Birds Trilogy (USA);Angry Birds Trilogy (USA);Nintendo Wii;;2013;Activision;Puzzle;;;;;0;;;;;
+Angry Birds Star Wars (USA);Angry Birds Star Wars (USA);Nintendo Wii-U;;2013;Activision;Miscellaneous;;;;;0;;;;;
+Angry Birds Trilogy (USA);Angry Birds Trilogy (USA);Nintendo Wii-U;;2013;Activision;Miscellaneous;;;;;0;;;;;

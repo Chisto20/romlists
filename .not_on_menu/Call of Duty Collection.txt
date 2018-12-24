@@ -1,0 +1,16 @@
+Call of Duty - Black Ops (USA);Call of Duty - Black Ops;Nintendo DS;;;;;;;;;0;;;;;
+Call of Duty - Modern Warfare - Mobilized (USA);Call of Duty - Modern Warfare - Mobilized;Nintendo DS;;;;;;;;;0;;;;;
+Call of Duty - Modern Warfare 3 - Defiance (USA);Call of Duty - Modern Warfare 3 - Defiance;Nintendo DS;;;;;;;;;0;;;;;
+Call of Duty - World at War (USA);Call of Duty - World at War;Nintendo DS;;;;;;;;;0;;;;;
+Call of Duty 4 - Modern Warfare (USA);Call of Duty 4 - Modern Warfare;Nintendo DS;;;;;;;;;0;;;;;
+Call of Duty - Black Ops (USA);Call of Duty - Black Ops (USA);Nintendo Wii;;2010;Activision;Shooter;;;;;0;;;;;
+Call of Duty - Modern Warfare - Reflex Edition (USA);Call of Duty - Modern Warfare - Reflex Edition (USA);Nintendo Wii;;2009;Activision;Shooter;;;;;0;;;;;
+Call of Duty - Modern Warfare 3 (USA);Call of Duty - Modern Warfare 3 (USA);Nintendo Wii;;2011;Activision;Shooter;;;;;0;;;;;
+Call of Duty - World at War (USA);Call of Duty - World at War (USA);Nintendo Wii;;2008;Activision;Shooter;;;;;0;;;;;
+Call of Duty 3 (USA);Call of Duty 3 (USA);Nintendo Wii;;2006;Activision;Shooter;;;;;0;;;;;
+Call of Duty - Black Ops II (USA);Call of Duty: Black Ops II (USA);Nintendo Wii-U;;2012;Activision;Shooter;;;;;0;;;;;
+Call of Duty - Ghosts (USA);Call of Duty: Ghosts (USA);Nintendo Wii-U;;2013;Activision;Shooter;;;;;0;;;;;
+Call of Duty - Finest Hour (USA);Call of Duty - Finest Hour (USA);Sony PlayStation 2;;2004;Spark Unlimited;Shooter;;;;;0;;;;;
+Call of Duty - World at War - Final Fronts (USA);Call of Duty - World at War - Final Fronts (USA);Sony PlayStation 2;;2008;Rebellion;Shooter;;;;;0;;;;;
+Call of Duty 2 - Big Red One (USA);Call of Duty 2 - Big Red One (USA);Sony PlayStation 2;;2005;Treyarch;Shooter;;;;;0;;;;;
+Call of Duty 3 (USA);Call of Duty 3 (USA);Sony PlayStation 2;;2006;Treyarch;Shooter;;;;;0;;;;;

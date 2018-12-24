@@ -1,0 +1,27 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Battle Fantasia;Battle Fantasia;Taito Type X;;2007;Arc System Works;Fighter;;;;;0;;;;;
+Battle Gear 4 Tuned;Battle Gear 4 Tuned;Taito Type X;;2006;Taito;Driving;;;;;0;;;;;
+BlazBlue Calamity Trigger;BlazBlue Calamity Trigger;Taito Type X;;2008;Arc System Works;Fighter;;;;;0;;;;;
+BlazBlue Continuum Shift;BlazBlue Continuum Shift;Taito Type X;;2009;Arc System Works;Fighter;;;;;0;;;;;
+BlazBlue Continuum Shift II;BlazBlue Continuum Shift II;Taito Type X;;;Arc System Works;Fighter;;;;;0;;;;;
+Chaos Breaker;Chaos Breaker;Taito Type X;;2004;Eolith;Fighter;;;;;0;;;;;
+Giga Wing Generations;Giga Wing Generations;Taito Type X;;2004;Takumi Corporation;Shoot-'Em-Up;;;;;0;;;;;
+Power Instinct 5 - The Commemoration;Power Instinct 5 - The Commemoration;Taito Type X;;2009;Atlus;Fighter;;;;;0;;;;;
+Half-Life 2 - Survivor Ver. 2.0;Half-Life 2 - Survivor Ver. 2.0;Taito Type X;;2007;Valve;Shooter;;;;;0;;;;;
+Homura;Homura;Taito Type X;;2005;Skonec;Shoot-'Em-Up;;;;;0;;;;;
+KOF - Maximum Impact Regulation A;KOF - Maximum Impact Regulation A;Taito Type X;;2007;SNK Playmore;Fighter;;;;;0;;;;;
+King of Fighters 98, The - The Ultimate Match;King of Fighters '98, The - Ultimate Match;Taito Type X;;2008;SNK;Fighter;;;;;0;;;;;
+King of Fighters XII, The;King of Fighters XII, The;Taito Type X;;2009;SNK Playmore;Fighter;;;;;0;;;;;
+King of Fighters XIII, The;King of Fighters XIII, The;Taito Type X;;2010;SNK Playmore;Fighter;;;;;0;;;;;
+Raiden III;Raiden III;Taito Type X;;2005;Moss;Shoot-'Em-Up;;;;;0;;;;;
+Raiden IV;Raiden IV;Taito Type X;;2007;Moss;Shoot-'Em-Up;;;;;0;;;;;
+Samurai Shodown - Edge of Destiny;Samurai Shodown - Edge of Destiny;Taito Type X;;2008;	SNK Playmore;Fighter;;;;;0;;;;;
+Shikigami no Shiro III;Shikigami no Shiro III;Taito Type X;;2006;Alfa System / Skonec;Shoot-'Em-Up;;;;;0;;;;;
+Spica Adventure;Spica Adventure;Taito Type X;;2005;Arc;Platform;;;;;0;;;;;
+Street Fighter IV;Street Fighter IV;Taito Type X;;2008;Dimps / Capcom;Fighter;;;;;0;;;;;
+Super Street Fighter IV Arcade Edition;Super Street Fighter IV Arcade Edition;Taito Type X;;2010;Dimps / Capcom;Fighter;;;;;0;;;;;
+Super Street Fighter IV Arcade Edition (Version 2012);Super Street Fighter IV Arcade Edition (Version 2012);Taito Type X;;2012;Dimps / Capcom;Fighter;;;;;0;;;;;
+Taisen Hot Gimmick 5;Taisen Hot Gimmick 5;Taito Type X;;2005;XNauts;Mahjong;;;;;0;;;;;
+Tetris The Grand Master 3 - Terror Instinct;Tetris The Grand Master 3 - Terror Instinct;Taito Type X;;2005;Arika;Puzzle;;;;;0;;;;;
+Trouble Witches AC;Trouble Witches AC;Taito Type X;;2008;Studio Siesta / Bouken;Shoot-'Em-Up;;;;;0;;;;;
+Wacky Races;Wacky Races;Taito Type X;;2008;Banpresto/Taito;Driving;;;;;0;;;;;

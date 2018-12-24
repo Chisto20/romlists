@@ -1,0 +1,13 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+beachspi;Beach Spikers (GDS-0014);Sega Naomi 2;;2002;Sega;Sport/Volley;;;;;0;;;;;
+clubk2k3;Club kart - European Session;Sega Naomi 2;;2003;Sega;Driving;;;;;0;;;;;
+initdexp;Inital D Arcade Stage (GDS-0025A);Sega Naomi 2;;2002;Sega;Driving;;;;;0;;;;;
+initdv2e;Inital D Arcade Stage Ver.2 (GDS-0027);Sega Naomi 2;;2002;Sega;Driving;;;;;0;;;;;
+initdv3e;Inital D Arcade Stage Ver.3 (GDS-0033);Sega Naomi 2;;2004;Sega;Driving;;;;;0;;;;;
+kingrt66;King of Route 66;Sega Naomi 2;;2002;Sega;Driving;;;;;0;;;;;
+soulsurf;Soul Surfer;Sega Naomi 2;;2002;Sega;Sports/Surfing;;;;;0;;;;;
+vf4;Virtua Fighter 4 (GDS-0012);Sega Naomi 2;;2001;Sega;Fighter;;;;;0;;;;;
+vf4evo;Virtua Fighter 4 Evolution (GDS-0024B);Sega Naomi 2;;2002;Sega;Fighter;;;;;0;;;;;
+vf4tuneda;Virtua Fighter 4 Final Tuned (GDS-0036F);Sega Naomi 2;;2004;Sega;Fighter;;;;;0;;;;;
+vstrik3;Virtua Striker 3 (GDS-0006);Sega Naomi 2;;2001;Sega;Sports/Soccer;;;;;0;;;;;
+wldrider;Wild Riders;Sega Naomi 2;;2001;Sega;Driving;;;;;0;;;;;

@@ -1,0 +1,3 @@
+Super Smash Bros. (USA);Super Smash Bros. (USA);Nintendo 64;;1999;Nintendo;Fighter;;;;;0;;;;;
+Super Smash Bros. Brawl (USA);Super Smash Bros. Brawl (USA);Nintendo Wii;;2008;Nintendo;Fighter;;;;;0;;;;;
+Super Smash Bros. for Wii U (USA);Super Smash Bros. for Wii U (USA);Nintendo Wii-U;;2014;Nintendo;Fighter;;;;;0;;;;;

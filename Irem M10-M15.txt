@@ -1,0 +1,25 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+headoni;Head On (Irem, M-15 Hardware);Arcade;;;Irem;Maze;;;;;0;;;;;
+headoni;Head On (Irem, M-15 Hardware);Final Burn Alpha;;;Irem;Maze;;;;;0;;;;;
+headoni;Head On (Irem, M-15 Hardware);MAME (Advance); ; ;Irem;Maze;;;;;0;;;;;
+headoni;Head On (Irem, M-15 Hardware);MAME (Libretro);;;Irem;Maze;;;;;0;;;;;
+headoni;Head On (Irem, M-15 Hardware);MAME (Mame4all);;;Irem;Maze;;;;;0;;;;;
+headoni;Head On (Irem, M-15 Hardware);MAME;;;Irem;Maze;;;;;0;;;;;
+ipminvad;I P M Invader;Arcade;;;Irem;Shooter;;;;;0;;;;;
+ipminvad;I P M Invader;Final Burn Alpha;;;Irem;Shooter;;;;;0;;;;;
+ipminvad;I P M Invader;MAME (Advance); ; ;Irem;Shooter;;;;;0;;;;;
+ipminvad;I P M Invader;MAME (Libretro);;;Irem;Shooter;;;;;0;;;;;
+ipminvad;I P M Invader;MAME (Mame4all);;;Irem;Shooter;;;;;0;;;;;
+ipminvad;I P M Invader;MAME;;;Irem;Shooter;;;;;0;;;;;
+skychut;Sky Chuter;Arcade; ;1980;Irem;Shooter;;;;;0;;;;;
+skychut;Sky Chuter;Final Burn Alpha; ;1980;Irem;Shooter;;;;;0;;;;;
+skychut;Sky Chuter;MAME (Advance); ;1980;Irem;Shooter;;;;;0;;;;;
+skychut;Sky Chuter;MAME (Libretro); ;1980;Irem;Shooter;;;;;0;;;;;
+skychut;Sky Chuter;MAME (Mame4all); ;1980;Irem;Shooter;;;;;0;;;;;
+skychut;Sky Chuter;MAME; ;1980;Irem;Shooter;;;;;0;;;;;
+spacbeam;Space Beam;Arcade;;1979;Irem;Shooter;;;;;0;;;;;
+spacbeam;Space Beam;Final Burn Alpha;;1979;Irem;Shooter;;;;;0;;;;;
+spacbeam;Space Beam;MAME (Advance); ;1979;Irem;Shooter;;;;;0;;;;;
+spacbeam;Space Beam;MAME (Libretro);;1979;Irem;Shooter;;;;;0;;;;;
+spacbeam;Space Beam;MAME (Mame4all);;1979;Irem;Shooter;;;;;0;;;;;
+spacbeam;Space Beam;MAME;;1979;Irem;Shooter;;;;;0;;;;;

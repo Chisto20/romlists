@@ -1,0 +1,9 @@
+Diablo (USA);Diablo (USA);Atari ST;;1986;Extended Software;Puzzle;;;;;0;;;;;
+Diablo (Europe);Diablo (Europe);Commodore 64;;1987;Diamond Software;Action;;;;;0;;;;;
+diablo;Diablo (Rus);Final Burn Alpha;fatallab;199?;unknown;;;;;;0;;;;;
+Diablo King (Spain);Diablo King (Spain);Sinclair ZX Spectrum;;1984;Cibercomp S.A.;Puzzle;;;;;0;;;;;
+Diablo! (Part 1) (Europe);Diablo! (Part 1) (Europe);Sinclair ZX Spectrum;;1988;Nebula Design Software;Adventure;;;;;0;;;;;
+Diablo! (Part 2) (Europe);Diablo! (Part 2) (Europe);Sinclair ZX Spectrum;;1988;Nebula Design Software;Adventure;;;;;0;;;;;
+Diablo! (Part 3) (Europe);Diablo! (Part 3) (Europe);Sinclair ZX Spectrum;;1988;Nebula Design Software;Adventure;;;;;0;;;;;
+Diablo (USA);Diablo (USA);Sony PlayStation;;1998;Electronic Arts;Role-Playing;;;;;0;;;;;
+Diablo (USA);Diablo (USA);Sony PSP;;1998;Electronic Arts;Role-Playing;;;;;0;;;;;

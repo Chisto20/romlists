@@ -1,0 +1,6 @@
+Burnout Legends (USA) (En,Fr,Es);Burnout Legends;Nintendo DS;;;;;;;;;0;;;;;
+Burnout (USA);Burnout (USA);Sony PlayStation 2;;2001;Criterion Games;Driving;;;;;0;;;;;
+Burnout 2 - Point of Impact (USA);Burnout 2 - Point of Impact (USA);Sony PlayStation 2;;2002;Criterion Games;Driving;;;;;0;;;;;
+Burnout 3 - Takedown (USA);Burnout 3 - Takedown (USA);Sony PlayStation 2;;2004;Criterion Games;Driving;;;;;0;;;;;
+Burnout Dominator (USA);Burnout Dominator (USA);Sony PlayStation 2;;2007;Criterion Games;Driving;;;;;0;;;;;
+Burnout Revenge (USA);Burnout Revenge (USA);Sony PlayStation 2;;2005;Criterion Games;Driving;;;;;0;;;;;

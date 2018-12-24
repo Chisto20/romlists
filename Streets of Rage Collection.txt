@@ -1,0 +1,6 @@
+Streets of Rage (World) (Rev A);Streets of Rage (World) (Rev A);Sega Mega Drive;;1991;Sega;Fighting;;;;;0;;;;;
+Streets of Rage 2 (USA);Streets of Rage 2 (USA);Sega Mega Drive;;1992;Sega;Fighting;;;;;0;;;;;
+Streets of Rage 3 (USA);Streets of Rage 3 (USA);Sega Mega Drive;;1994;Sega;Fighting;;;;;0;;;;;
+Bare Knuckle II (Japan);Bare Knuckle II (Japan);Sega Mega Drive Japan;;1993;Sega;Fighting;;;;;0;;;;;
+Bare Knuckle III (Japan) (T-Eng);Bare Knuckle III (Japan) (T-Eng);Sega Mega Drive Japan;;1994;Sega:Fighting;;;;;0;;;;;
+Streets of Rage Remake;Streets of Rage Remake;Ports;;;;;;;;;;;;;;

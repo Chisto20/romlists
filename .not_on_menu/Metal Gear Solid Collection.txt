@@ -1,0 +1,15 @@
+mgs;Metal Gear Solid (Rus);Final Burn Alpha;crkdown;199?;Glorysun;;;;;;0;;;;;
+Metal Gear Solid (USA);Metal Gear Solid (USA);Nintendo Game Boy Color;;2000;Konami;Adventure;;;;;0;;;;;
+Metal Gear Solid (USA) (Disc 1);Metal Gear Solid (USA) (Disc 1);Sony PlayStation;;1998;Konami;Adventure;;;;;0;;;;;
+Metal Gear Solid (USA) (Disc 2);Metal Gear Solid (USA) (Disc 2);Sony PlayStation;;1998;Konami;Adventure;;;;;0;;;;;
+Metal Gear Solid - VR Missions (USA);Metal Gear Solid - VR Missions (USA);Sony PlayStation;;1999;Konami;Adventure;;;;;0;;;;;
+Metal Gear Solid (USA) (Disc 1);Metal Gear Solid (USA) (Disc 1);Sony PSP;;1998;Konami;Adventure;;;;;0;;;;;
+Metal Gear Solid (USA) (Disc 2);Metal Gear Solid (USA) (Disc 2);Sony PSP;;1998;Konami;Adventure;;;;;0;;;;;
+Metal Gear Solid - VR Missions (USA);Metal Gear Solid - VR Missions (USA);Sony PSP;;1999;Konami;Adventure;;;;;0;;;;;
+Document of Metal Gear Solid 2, The (USA);Document of Metal Gear Solid 2, The (USA);Sony PlayStation 2;;2002;KCEJ;Miscellaneous;;;;;0;;;;;
+Metal Gear Solid 2 - Sons of Liberty (USA);Metal Gear Solid 2 - Sons of Liberty (USA);Sony PlayStation 2;;2001;KCEJ;Action;;;;;0;;;;;
+Metal Gear Solid 2 - Substance (USA);Metal Gear Solid 2 - Substance (USA);Sony PlayStation 2;;2003;KCEJ;Action;;;;;0;;;;;
+Metal Gear Solid 3 - Snake Eater (USA);Metal Gear Solid 3 - Snake Eater (USA);Sony PlayStation 2;;2004;KCEJ;Action;;;;;0;;;;;
+Metal Gear Solid 3 - Subsistence (USA) (Disc 1);Metal Gear Solid 3 - Subsistence (USA) (Disc 1);Sony PlayStation 2;;2006;Aspect;Action;;;;;0;;;;;
+Metal Gear Solid 3 - Subsistence (USA) (Disc 2);Metal Gear Solid 3 - Subsistence (USA) (Disc 2);Sony PlayStation 2;;2006;Aspect;Action;;;;;0;;;;;
+Metal Gear Solid 3 - Subsistence (USA) (Disc 3);Metal Gear Solid 3 - Subsistence (USA) (Disc 3);Sony PlayStation 2;;2006;Aspect;Action;;;;;0;;;;;

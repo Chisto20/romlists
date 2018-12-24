@@ -1,0 +1,5 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Hell Yeah;Hell Yeah;Steam;;2012;Sega;Action / Platform;1;;;;;;;;;
+ICEY;ICEY;Steam;;2016;;;1;;;;;;;;;
+Jet Set Radio;Jet Set Radio;Steam;;2012;Sega;Action / Sports;1;;;;;;;;;
+Sega Classics;Sega Classics;Steam;;;Sega;;;;;;;;;;;

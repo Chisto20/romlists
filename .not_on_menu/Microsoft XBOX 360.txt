@@ -1,0 +1,8 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Bullet Soul Infinite Burst (Japan);Bullet Soul Infinite Burst (Japan);Microsoft XBOX 360;;;;Shooter;2;;;;;;;;;
+Dantes Inferno (USA);Dantes Inferno (USA);Microsoft XBOX 360;;2010;Electronic Arts;Action / Adventure;1;;;;;;;;;
+Dodonpachi Sai Dai Ou Jou (Japan);Dodonpachi Sai Dai Ou Jou (Japan);Microsoft XBOX 360;;;;Shooter;2;;;;;;;;;
+Dragon Ball Z Budokai HD Collection (USA);Dragon Ball Z Budokai HD Collection (USA);Microsoft XBOX 360;;2012;Bandai Namco Games;Fighting;2;;;;;;;;;
+Rayman Legends (USA);Rayman Legends (USA);Microsoft XBOX 360;;2013;Ubisoft;Platform;2;;;;;;;;;
+Skate 3 (USA);Skate 3 (USA);Microsoft XBOX 360;;2010;;;;;;;;;;;;
+Teenage Mutant Ninja Turtles - Danger of the Ooze;Teenage Mutant Ninja Turtles - Danger of the Ooze;Microsoft XBOX 360;;;;;;;;;;;;;;

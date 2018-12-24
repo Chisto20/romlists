@@ -1,0 +1,16 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (Japan);Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (Japan);Nintendo SuFami Turbo;;;;;;;;;;;;;;
+Crayon Shin Chan - Nagagutsu Dobon (Japan);Crayon Shin Chan - Nagagutsu Dobon (Japan);Nintendo SuFami Turbo;;;;;;;;;;;;;;
+Gegege no Kitarou - Youkai Donjara (Japan);Gegege no Kitarou - Youkai Donjara (Japan);Nintendo SuFami Turbo;;;;;;;;;;;;;;
+Gekisou Sentai Car Rangers (Japan);Gekisou Sentai Car Rangers (Japan);Nintendo SuFami Turbo;;;;;;;;;;;;;;
+Poi Poi Ninjya World (Japan);Poi Poi Ninjya World (Japan);Nintendo SuFami Turbo;;;;;;;;;;;;;;
+SD Gundam Generations (A) 1 Nen Sensouki (Japan);SD Gundam Generations (A) 1 Nen Sensouki (Japan);Nintendo SuFami Turbo;;;;;;;;;;;;;;
+SD Gundam Generations (B) Guripus Senki (Japan);SD Gundam Generations (B) Guripus Senki (Japan);Nintendo SuFami Turbo;;;;;;;;;;;;;;
+SD Gundam Generations (C) Axiz Senki (Japan);SD Gundam Generations (C) Axiz Senki (Japan);Nintendo SuFami Turbo;;;;;;;;;;;;;;
+SD Gundam Generations (D) Babironia Kenkoku Senki (Japan);SD Gundam Generations (D) Babironia Kenkoku Senki (Japan);Nintendo SuFami Turbo;;;;;;;;;;;;;;
+SD Gundam Generations (E) Zansukaru Senki (Japan);SD Gundam Generations (E) Zansukaru Senki (Japan);Nintendo SuFami Turbo;;;;;;;;;;;;;;
+SD Gundam Generations (F) Colony Kakutouki (Japan);SD Gundam Generations (F) Colony Kakutouki (Japan);Nintendo SuFami Turbo;;;;;;;;;;;;;;
+SD Ultra Battle - Seven & Ultraman (Japan);SD Ultra Battle - Seven & Ultraman (Japan);Nintendo SuFami Turbo;;;;;;;;;;;;;;
+SD Ultra Battle - Seven Densetsu (Japan);SD Ultra Battle - Seven Densetsu (Japan);Nintendo SuFami Turbo;;;;;;;;;;;;;;
+SD Ultra Battle - Ultraman & Seven (Japan);SD Ultra Battle - Ultraman & Seven (Japan);Nintendo SuFami Turbo;;;;;;;;;;;;;;
+SD Ultra Battle - Ultraman Densetsu (Japan);SD Ultra Battle - Ultraman Densetsu (Japan);Nintendo SuFami Turbo;;;;;;;;;;;;;;

@@ -1,0 +1,27 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Ikaruga (Japan);Ikaruga (Japan);Sega Dreamcast;;2002;ESP Software;Shoot-'Em-Up;;;;;0;;;;;
+Under Defeat (Japan);Under Defeat (Japan);Sega Dreamcast;;2006;Grev Ltd.;Shoot-'Em-Up;;;;;0;;;;;
+Bangai-O (USA);Bangai-O (USA);Sega Dreamcast;;2001;Conspiracy Entertainment;Shoot-'Em-Up;;;;;0;;;;;
+Border Down (Japan);Border Down (Japan);Sega Dreamcast;;2003;G.Rev;Shoot-'Em-Up;;;;;0;;;;;
+Zero Gunner 2 (Japan);Zero Gunner 2 (Japan);Sega Dreamcast;;2001;Psikyo;Shoot-'Em-Up;;;;;0;;;;;
+Mars Matrix (USA);Mars Matrix (USA);Sega Dreamcast;;2001;Capcom;Action;;;;;0;;;;;
+Trigger Heart Exelica (Japan);Trigger Heart Exelica (Japan);Sega Dreamcast;;2007;Warashi;Shoot-'Em-Up;;;;;0;;;;;
+Trizeal (Japan);Trizeal (Japan);Sega Dreamcast;;2005;Triangle Service;Shoot-'Em-Up;;;;;0;;;;;
+Castle Shikigami 2 (Japan);Castle Shikigami 2 (Japan);Sega Dreamcast;;2004;Media Quest;Shoot-'Em-Up;;;;;0;;;;;
+Psyvariar 2 - The Will to Fabricate (Japan);Psyvariar 2 - The Will to Fabricate (Japan);Sega Dreamcast;;2004;Success;Shoot-'Em-Up;;;;;0;;;;;
+Twinkle Star Sprites (Japan);Twinkle Star Sprites (Japan);Sega Dreamcast;;2000;SNK;Shoot-'Em-Up;;;;;0;;;;;
+Gunbird 2 (USA);Gunbird 2 (USA);Sega Dreamcast;;2000;Capcom;Shoot-'Em-Up;;;;;0;;;;;
+Chaos Field (Japan);Chaos Field (Japan);Sega Dreamcast;;2004;MileStone Inc.;Shoot-'Em-Up;;;;;0;;;;;
+Giga Wing (USA);Giga Wing (USA);Sega Dreamcast;;2000;Capcom;Shoot-'Em-Up;;;;;0;;;;;
+Giga Wing 2 (USA);Giga Wing 2 (USA);Sega Dreamcast;;2001;Capcom;Shoot-'Em-Up;;;;;0;;;;;
+Radirgy (Japan);Radirgy (Japan);Sega Dreamcast;;2006;MileStone Inc.;Shoot-'Em-Up;;;;;0;;;;;
+Karous (Japan);Karous (Japan);Sega Dreamcast;;2007;MileStone Inc.;Shoot-'Em-Up;;;;;0;;;;;
+DUX (old version);DUX (old version);Sega Dreamcast Indies;;;;;;;;;;;;;;
+DUX v1.5 (new version);DUX v1.5 (new version);Sega Dreamcast Indies;;;;;;;;;;;;;;
+GHOST BLADE;GHOST BLADE;Sega Dreamcast Indies;;;;;;;;;;;;;;
+NEO XYX;NEO XYX;Sega Dreamcast Indies;;;;;;;;;;;;;;
+REDUX Dark Matters;REDUX Dark Matters;Sega Dreamcast Indies;;;;;;;;;;;;;;
+STURMWIND;STURMWIND;Sega Dreamcast Indies;;;;;;;;;;;;;;
+FAST STRIKER;FAST STRIKER;Sega Dreamcast Indies;;;;;;;;;;;;;;
+LAST HOPE (original edition);LAST HOPE (original edition);Sega Dreamcast Indies;;;;;;;;;;;;;;
+LAST HOPE Pink Bullets;LAST HOPE Pink Bullets;Sega Dreamcast Indies;;;;;;;;;;;;;;

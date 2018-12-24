@@ -1,0 +1,12 @@
+gt5;Gran Turismo 5 (Rus);Final Burn Alpha;funcar;199?;unknown;;;;;;0;;;;;
+Gran Turismo (USA);Gran Turismo (USA);Sony PlayStation;;1998;SCEA;Driving;;;;;0;;;;;
+Gran Turismo 2 (USA) (Arcade Mode);Gran Turismo 2 (USA) (Arcade Mode);Sony PlayStation;;1999;SCEA;Driving;;;;;0;;;;;
+Gran Turismo 2 (USA) (Simulation Mode);Gran Turismo 2 (USA) (Simulation Mode);Sony PlayStation;;1999;SCEA;Driving;;;;;0;;;;;
+Gran Turismo (USA);Gran Turismo (USA);Sony PSP;;1998;SCEA;Driving;;;;;0;;;;;
+Gran Turismo 2 (USA) (Arcade Mode);Gran Turismo 2 (USA) (Arcade Mode);Sony PSP;;1999;SCEA;Driving;;;;;0;;;;;
+Gran Turismo 2 (USA) (Simulation Mode);Gran Turismo 2 (USA) (Simulation Mode);Sony PSP;;1999;SCEA;Driving;;;;;0;;;;;
+Gran Turismo 3 - A-Spec (USA);Gran Turismo 3 - A-Spec (USA);Sony PlayStation 2;;2001;Polyphony Digital;Driving;;;;;0;;;;;
+Gran Turismo 4 (USA);Gran Turismo 4 (USA);Sony PlayStation 2;;2005;Polyphony Digital;Driving;;;;;0;;;;;
+Gran Turismo 4 - Prologue (Europe);Gran Turismo 4 - Prologue (Europe);Sony PlayStation 2;;2004;Polyphony Digital;Driving;;;;;0;;;;;
+Gran Turismo Concept - 2002 Tokyo-Geneva (Europe);Gran Turismo Concept - 2002 Tokyo-Geneva (Europe);Sony PlayStation 2;;2002;Polyphony Digital;Driving;;;;;0;;;;;
+Gran Turismo Special Edition 2004 - Toyota Demo (USA);Gran Turismo Special Edition 2004 - Toyota Demo (USA);Sony PlayStation 2;;2004;Polyphony Digital;Driving;;;;;0;;;;;

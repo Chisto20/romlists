@@ -1,0 +1,61 @@
+Not included in standard No-Intro sets (would need to be added to folder before running _NoFiller bats):
+
+NES:
+Base Wars - Cyber Stadium Series (USA)
+Crisis Force (Japan) [En by Stardust Crusaders v1.0]
+Famicom Wars (Japan) (Rev 0B) [En by Aka v1.11]
+Final Fantasy II (Japan) [En by Demiforce v1.03] [Bug+Title Fixes by Parasyte v1.0] (Weapon-Magic Exploit Fix)
+Final Fantasy II (Japan) [En by Demiforce v1.03] [Hack by Lenophis+King Lettuce v1.0] [Title Fix by Parasyte v1.0] (Demonic Pandemonium)
+Final Fantasy III (Japan) [En by A.W.Jackson+Neill Corlett+SoM2Freak v1.1]
+Fire Emblem Gaiden (Japan) [En by J2e v0.97b2] [Fix by Starwolfs]
+Gold Medal Challenge '92 (USA)
+Just Breed (Japan) [En by Stealth v1.0]
+Radia Senki - Reimei Hen (Japan) [En by Dreamless+Jair+CX v1.0] (_Chronicle of the Radia War)
+Summer Carnival '92 - Recca (Japan) [En by Aeon Genesis v1.0] (_Raging Fire - Recca)
+TwinBee 3 - Poko Poko Dai Maou (Japan) [En by Demiforce+Stardust Crusaders v1.0] (_TwinBee 3 - The Aimless Demon King)
+Ys (Japan) [En by David Mullen v1.0]
+
+Genesis:
+Dragon Ball Z - L'Appel du Destin (France) [En by DBZGame v0.95a] (Incomplete)
+Pulseman (Japan) [En by MIJET v20070226]
+Twinkle Tale (Japan) [En by MIJET v20070328]
+Yuu Yuu Hakusho - Makyou Toitsusen (Japan) [En by MIJET v20071113]
+
+SNES:
+Bahamut Lagoon (Japan) [En by DeJap+Neill Corlett+Tomato v1.3] (Emulator Edition)
+Bishoujo Senshi Sailormoon - Another Story (Japan) [En by FuSoYa v1.0] (_Pretty Soldier Sailor Moon - Another Story)
+Do-Re-Mi Fantasy - Milon no Dokidoki Daibouken (Japan) [En by Gaijin+RPGOne v1.0] (_Do-Re-Mi Fantasy - Milon's Quest)
+Dragon Ball Z - Hyper Dimension (Japan) [En by Unknown v1.0]
+Dragon Ball Z - Super Butouden (France) [En by Aeon Genesis v0.98] (_Dragon Ball Z - Super Butouden 1) (Incomplete)
+Dragon Quest I & II (Japan) [En by RPGOne v2.0] (Dragon Quest Version)
+Dragon Quest III - Soshite Densetsu e... (Japan) [En by DaMarsMan v1.0] (_Dragon Quest III - Into the Legend)
+Dragon Quest V - Tenkuu no Hanayome (Japan) [En by DeJap+Partial v2.01Final] (_Dragon Quest V - Bride of Heaven)
+Dragon Quest VI - Maboroshi no Daichi (Japan) [En by NoPrgress v0.90Beta2] (_Dragon Quest VI - Land of Illusion)
+Fire Emblem - Monshou no Nazo (Japan) [En by RPGuy96 v0.98] (_Fire Emblem - Mystery of the Emblem)
+Fire Emblem - Seisen no Keifu (Japan) [En by Dark Twilkitri Net v0.87d] (_Fire Emblem - Genealogy of the Holy War)
+Front Mission Series - Gun Hazard (Japan) [En by Aeon Genesis v1.01]
+Ghost Sweeper Mikami - Joreishi wa Nice Body (Japan)
+Go Go Ackman (Japan) [En by Ackman v1.0]
+Langrisser, Der (Japan) (Rev 1) [En by Byuu+D v1.02]
+Lennus II - Fuuin no Shito (Japan) [En by Magic Destiny+Stealth v1.04] (_Lennus II - The Apostles of the Seals)
+Little Magic (Japan) [En by Aeon Genesis v1.00B]
+Live A Live (Japan) [En by Aeon Genesis v2.0Deluxe]
+Magical Pop'n (Japan) [En by Aeon Genesis v1.01]
+Majuu Ou (Japan) [En by Aeon Genesis v1.01] (_King of Demons)
+Mickey to Donald - Magical Adventure 3 (Japan) [En by RPGOne v1.1] (_Mickey & Donald - Magical Adventure 3)
+Miracle Girls (Japan) [En by RPGOne v1.0]
+Panic in Nakayoshi World (Japan) [En by Project Sailor Moon v1.0]
+Radical Dreamers - Nusume Nai Houseki (Japan) (BS) [En by Demiforce v1.4] (_Radical Dreamers - Le Tresor Interdit)
+Romancing SaGa 3 (Japan) (Rev 1) [En by Mana Sword v0.30]
+Sanrio World Smash Ball! (Japan) [En by Suicidal v1.0]
+Seiken Densetsu 3 (Japan) [En by LNF+Neill Corlett+SoM2Freak v1.01] [Title Hack by Dragonsbrethren v1.0] (_Secret of Mana 2) (1)
+Shin Kidou Senki Gundam W - Endless Duel (Japan) [En by Aeon Genesis v1.0] (_Mobile Suit Gundam Wing - Endless Duel)
+Shin Megami Tensei (Japan) [En by Aeon Genesis v1.0]
+Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) [En by Aeon Genesis v1.0] (Renegade 2)
+Super Earth Defense Force (USA)
+Super Genjin 2 (Japan) [En by Gaijin v1.0] (_Super Bonk 2)
+Tales of Phantasia (Japan) [En by DeJap v1.2] (Lower Case Font)
+Uchuu no Kishi Tekkaman Blade (Japan) [En by D v1.0] (_Space Knight Tekkaman Blade)
+Umihara Kawase (Japan) [En by Satsu v0.90]
+Wonder Project J - Kikai no Shounen Pino (Japan) [En by WakdHacks v1.04] (_Wonder Project J - Mechanical Boy Pino)
+

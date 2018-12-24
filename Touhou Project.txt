@@ -1,0 +1,26 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+TH01 - Highly Responsive to Prayers;Highly Responsive to Prayers;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH02 - The Story of Eastern Wonderland;The Story of Eastern Wonderland;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH03 - Phantasmagoria of Dim. Dream;Phantasmagoria of Dim. Dream;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH04 - Lotus Land Story;Lotus Land Story;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH05 - Mystic Square;Mystic Square;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH06 - The Embodiment of Scarlet Devil;Embodiment of Scarlet Devil;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH07 - Perfect Cherry Blossom;Perfect Cherry Blossom;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH07.5 - Immaterial and Missing Power;Immaterial and Missing Power;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH08 - Imperishable Night;Imperishable Night;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH09 - Phantasmagoria of Flower View;Phantasmagoria of Flower View;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH09.5 - Shoot the Bullet;Shoot the Bullet;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH10 - Mountain of Faith;Mountain of Faith;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH10.5 - Scarlet Weather Rhapsody;Scarlet Weather Rhapsody;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH11 - Subterranean Animism;Subterranean Animism;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH12 - Undefined Fantastic Object;Undefined Fantastic Object;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH12.3 - Unthinkable Natural Law;Unthinkable Natural Law;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH12.5 - Double Spoiler;Double Spoiler;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH12.8 - Great Fairy Wars;Great Fairy Wars;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH13 - Ten Desires;Ten Desires;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH13.5 - Hopeless Masquerade;Hopeless Masquerade;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH14 - Double Dealing Character;Double Dealing Character;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH14.3 - Impossible Spell Card;Impossible Spell Card;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH14.5 - Urban Legend in Limbo;Urban Legend in Limbo;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH15 - Legacy of Lunatic Kingdom;Legacy of Lunatic Kingdom;Touhou Project; ; ; ; ;;;;;0;;;;;
+TH16 - Hidden Star in Four Seasons;Hidden Star in Four Seasons;Touhou Project; ; ; ; ;;;;;0;;;;;

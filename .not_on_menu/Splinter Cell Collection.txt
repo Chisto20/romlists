@@ -1,0 +1,9 @@
+Tom Clancy's Splinter Cell - Chaos Theory (USA) (En,Fr,De,Es,It);Tom Clancy's Splinter Cell - Chaos Theory;Nintendo DS;;;;;;;;;0;;;;;
+Tom Clancy's Splinter Cell (USA) (En,Fr,Es);Tom Clancy's Splinter Cell (USA) (En,Fr,Es);Nintendo Game Boy Advance;;2003;Ubisoft;Adventure;;;;;0;;;;;
+Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (En,Fr,Es);Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (En,Fr,Es);Nintendo Game Boy Advance;;2004;Ubisoft;Adventure;;;;;0;;;;;
+Tom Clancy's Splinter Cell - Double Agent (USA);Tom Clancy's Splinter Cell - Double Agent (USA);Nintendo Wii;;2006;Ubi Soft Entertainment;Action;;;;;0;;;;;
+Tom Clancy's Splinter Cell - Blacklist (USA);Tom Clancy's Splinter Cell: Blacklist (USA);Nintendo Wii-U;;2013;Ubisoft;Action;;;;;0;;;;;
+Tom Clancy's Splinter Cell (USA);Tom Clancy's Splinter Cell (USA);Sony PlayStation 2;;2003;Ubisoft Shanghai;Action;;;;;0;;;;;
+Tom Clancy's Splinter Cell - Chaos Theory (USA);Tom Clancy's Splinter Cell - Chaos Theory (USA);Sony PlayStation 2;;2005;Ubisoft Montreal;Action;;;;;0;;;;;
+Tom Clancy's Splinter Cell - Double Agent (USA);Tom Clancy's Splinter Cell - Double Agent (USA);Sony PlayStation 2;;2006;Ubisoft Montreal;Action;;;;;0;;;;;
+Tom Clancy's Splinter Cell - Pandora Tomorrow (USA);Tom Clancy's Splinter Cell - Pandora Tomorrow (USA);Sony PlayStation 2;;2004;Ubisoft Shanghai;Action;;;;;0;;;;;

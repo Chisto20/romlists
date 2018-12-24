@@ -1,0 +1,20 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Adventure Time the Secret of the Nameless Kingdom (USA);Adventure Time the Secret of the Nameless Kingdom (USA);Sony PlayStation 3;;2014;Little Orbit;Adventure;1;;;;;;;;;
+Akiba's Trip - Undead and Undressed (USA);Akiba's Trip - Undead and Undressed (USA);Sony PlayStation 3;;;;;;;;;;;;;;
+Alpha Protocol (Europe);Alpha Protocol (Europe);Sony PlayStation 3;;2010;Sega;Role-Playing;1;;;;;;;;;
+AquaPazza AquaPlus Dream Match (USA);AquaPazza AquaPlus Dream Match (USA);Sony PlayStation 3;;2013;Aqua Plus;Action / Fighting;1;;;;;;;;;
+Arcana Heart 3 (Europe);Arcana Heart 3 (Europe);Sony PlayStation 3;;2011;Aksys Games;Fighting;2;;;;;;;;;
+Arcana Heart 3 - LOVE MAX!!!!! (Japan);Arcana Heart 3 - LOVE MAX!!!!! (Japan);Sony PlayStation 3;;2014;Aksys;Fighting;4+;;;;;;;;;
+Battle Fantasia (Europe);Battle Fantasia (Europe);Sony PlayStation 3;;2009;Aksys Games, Taito;Fighting;1;;;;;;;;;
+Ben 10 Omniverse 2 (Europe);Ben 10 Omniverse 2 (Europe);Sony PlayStation 3;;;;;;;;;;;;;;
+Castlevania Harmony of Dispair;Castlevania Harmony of Dispair;Sony PlayStation 3;;;;;;;;;;;;;;
+Devil May Cry HD Collection (USA);Devil May Cry HD Collection (USA);Sony PlayStation 3;;2012;Capcom;Action;1;;;;;;;;;
+JoJo's Bizarre Adventure - All-Star Battle (USA);JoJo's Bizarre Adventure - All-Star Battle (USA);Sony PlayStation 3;;2013;Bandai;Fighting;2;;;;;;;;;
+Marvel VS Capcom 3 (USA);Marvel VS Capcom 3 (USA);Sony PlayStation 3;;;;;;;;;;;;;;
+Oddworld - Munch's Oddysee HD;Oddworld - Munch's Oddysee HD;Sony PlayStation 3;;2012;;;;;;;;;;;;
+Outrun Online Arcade;Outrun Online Arcade;Sony PlayStation 3;;;;;;;;;;;;;;
+Persona 5 (Europe);Persona 5 (Europe);Sony PlayStation 3;;2017;;;;;;;;;;;;
+Rayman Origins (USA);Rayman Origins (USA);Sony PlayStation 3;;2011;Ubisoft;Platform;4+;;;;;;;;;
+Sonic the Hedgehog 4 - Episode 1;Sonic the Hedgehog 4 - Episode 1;Sony PlayStation 3;;2010;;;;;;;;;;;;
+Super Street Fighter II Turbo HD Remix;Super Street Fighter II Turbo HD Remix;Sony PlayStation 3;;2008;Capcom;Fighting;2;;;;;;;;;
+Super Street Fighter IV (USA);Super Street Fighter IV (USA);Sony PlayStation 3;;2010;Capcom;Fighting;;;;;;;;;;

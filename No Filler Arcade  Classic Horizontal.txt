@@ -1,0 +1,29 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+
+astdelux;Asteroids Deluxe (rev 3);Arcade;;1980;Atari;Shooter / Field;;;;;0;;;;;
+berzerk;Berzerk (set 1);Arcade;;1980;Stern Electronics;Maze / Shooter Small;;;;;0;;;;;
+bosco;Bosconian (new version);Arcade;;1981;Namco;Shooter / Field;;;;;0;;;;;
+bubbles;Bubbles;Arcade;;1982;Williams;Maze;;;;;0;;;;;
+buckrog;Buck Rogers Planet of Zoom;Arcade;;1982;Sega;Shooter / Flying (chase view);;;;;0;;;;;
+cloak;Cloak & Dagger (rev 5);Arcade;;1983;Atari;Shooter / Field;;;;;0;;;;;
+defender;Defender (Red label);Arcade;;1980;Williams;Shooter / Flying Horizontal;;;;;0;;;;;
+elevator;Elevator Action;Arcade;;1983;Taito Corporation;Platform / Shooter;;;;;0;;;;;
+gauntlet;Gauntlet (rev 14);Arcade;;1985;Atari Games;Maze / Shooter Large;;;;;0;;;;;
+joust;Joust (White/Green label);Arcade;;1982;Williams;Platform / Run Jump;;;;;0;;;;;
+junglek;Jungle King (Japan);Arcade;;1982;Taito Corporation;Platform / Run Jump Scrolling;;;;;0;;;;;
+ldrun;Lode Runner (set 1);Arcade;;1984;Irem (licensed from Broderbund);Platform / Run Jump;;;;;0;;;;;
+mpatrol;Moon Patrol;Arcade;;1982;Irem;Shooter / Driving Horizontal;;;;;0;;;;;
+mtrap;Mouse Trap (version 5);Arcade;;1981;Exidy;Maze;;;;;0;;;;;
+dowild;Mr. Do's Wild Ride;Arcade;;1984;Universal;Platform / Run Jump;;;;;0;;;;;
+pepper2;Pepper II (version 8);Arcade;;1982;Exidy;Maze / Outline;;;;;0;;;;;
+popeye;Popeye (revision D);Arcade;;1982;Nintendo;Platform / Run Jump;;;;;0;;;;;
+robotron;Robotron 2084 (Solid Blue label);Arcade;;1982;Williams / Vid Kidz;Shooter / Field;;;;;0;;;;;
+rallyx;Rally X (32k Ver.?);Arcade;;1980;Namco;Maze / Driving;;;;;0;;;;;
+rampage;Rampage (Rev 3, 8/27/86);Arcade;;1986;Bally Midway;Platform / Fighter;;;;;0;;;;;
+skykid;Sky Kid (new version);Arcade;;1985;Namco;Shooter / Flying Horizontal;;;;;0;;;;;
+sharrier;Space Harrier (Rev A, 8751 315-5163A);Arcade;;1985;Sega;Shooter / Flying (chase view);;;;;0;;;;;
+tapper;Tapper (Budweiser, set 1);Arcade;;1983;Bally Midway;Platform / Run Jump;;;;;0;;;;;
+rbtapper;Tapper (Root Beer);Arcade;tapper;1984;Bally Midway;Platform / Run Jump;;;;;0;;;;;
+timber;Timber;Arcade;;1984;Bally Midway;Platform / Run Jump;;;;;0;;;;;
+wow;Wizard of Wor;Arcade;;1980;Dave Nutting Associates / Midway;Maze / Shooter Small;;;;;0;;;;;
+zookeep;Zoo Keeper (set 1);Arcade;;1982;Taito America Corporation;Platform / Run Jump;;;;;0;;;;;

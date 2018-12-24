@@ -1,0 +1,13 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Arcade SHMUPS;Arcade SHMUPS;@;;;;;;;;;0;;;;;
+NEC TurboGrafx-16 SHMUPS;NEC TurboGrafx-16 SHMUPS;@;;;;;;;;;0;;;;;
+Nintendo Game Boy Advance SHMUPS;Nintendo Game Boy Advance SHMUPS;@;;;;;;;;;0;;;;;
+Nintendo Entertainment System SHMUPS;Nintendo Entertainment System SHMUPS;@;;;;;;;;;0;;;;;
+Nintendo Famicom SHMUPS;Nintendo Famicom SHMUPS;@;;;;;;;;;0;;;;;
+Super Nintendo Entertainment System SHMUPS;Super Nintendo Entertainment System SHMUPS;@;;;;;;;;;0;;;;;
+Sega Genesis SHMUPS;Sega Genesis SHMUPS;@;;;;;;;;;0;;;;;
+Sega Saturn SHMUPS;Sega Saturn SHMUPS;@;;;;;;;;;0;;;;;
+Sega Dreamcast SHMUPS;Sega Dreamcast SHMUPS;@;;;;;;;;;0;;;;;
+Sony PlayStation SHMUPS;Sony PlayStation SHMUPS;@;;;;;;;;;0;;;;;
+Sony PSP SHMUPS;Sony PSP SHMUPS;@;;;;;;;;;0;;;;;
+Sony PlayStation 2 SHMUPS;Sony PlayStation 2 SHMUPS;@;;;;;;;;;0;;;;;
