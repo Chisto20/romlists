@@ -1,0 +1,7 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+airtrix;Air Trix;Sega Hikaru;;2000;Sega;Skateboard;;;;;0;;;;;
+braveff;Brave Fire Fighters;Sega Hikaru;;1999;Sega;Skill;;;;;0;;;;;
+von;Cyber Troopers Virtual-On Force;Sega Hikaru;;2001;Sega;Racer;;;;;0;;;;;
+sgnascar;NASCAR Racing;Sega Hikaru;;2000;Sega;Racer;;;;;0;;;;;
+pharrier;Planet Harrier;Sega Hikaru;;2001;Sega;Shooter;;;;;0;;;;;
+swracer;Star Wars Pod Racer;Sega Hikaru;;2001;Sega;Racer;;;;;0;;;;;

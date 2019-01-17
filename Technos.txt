@@ -1,0 +1,17 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Crash 'n the Boys - Street Challenge (U) [!];Crash 'n the Boys - Street Challenge (U) [!];Technos;;;;;;;;;;;;;;
+Double Dragon (U) [!];Double Dragon (U) [!];Technos;;;;;;;;;;;;;;
+Double Dragon II - The Revenge (E) [!];Double Dragon II - The Revenge (E) [!];Technos;;;;;;;;;;;;;;
+Double Dragon III - The Sacred Stones (E) [!p];Double Dragon III - The Sacred Stones (E) [!p];Technos;;;;;;;;;;;;;;
+Downtown Nekketsu Koshinkyoku Soreyuku Daiundokai (J);Downtown Nekketsu Koshinkyoku Soreyuku Daiundokai (J);Technos;;;;;;;;;;;;;;
+Downtown Special Kunio-kun no Jidaigeki dayo Zen'in Shugo (U) [!];Downtown Special Kunio-kun no Jidaigeki dayo Zen'in Shugo (U) [!];Technos;;;;;;;;;;;;;;
+Ike Ike! Nekketsu Hockey Bu Subette Koronde Dairanto (U) [!];Ike Ike! Nekketsu Hockey Bu Subette Koronde Dairanto (U) [!];Technos;;;;;;;;;;;;;;
+Kunio-kun no Nekketsu Soccer League (E) [!];Kunio-kun no Nekketsu Soccer League (E) [!];Technos;;;;;;;;;;;;;;
+Nekketsu Kakuto Densetsu (E) [!];Nekketsu Kakuto Densetsu (E) [!];Technos;;;;;;;;;;;;;;
+Nekketsu! Street Basket Ganbare Dunk Heroes (E) [!];Nekketsu! Street Basket Ganbare Dunk Heroes (E) [!];Technos;;;;;;;;;;;;;;
+Nintendo World Cup (U) [!];Nintendo World Cup (U) [!];Technos;;;;;;;;;;;;;;
+Renegade (U) [!];Renegade (U) [!];Technos;;;;;;;;;;;;;;
+River City Ransom (E) [!];River City Ransom (E) [!];Technos;;;;;;;;;;;;;;
+Sugoro Quest (U) [!];Sugoro Quest (U) [!];Technos;;;;;;;;;;;;;;
+Super Dodge Ball (U) [!];Super Dodge Ball (U) [!];Technos;;;;;;;;;;;;;;
+Super Spike V'Ball (E) [!];Super Spike V'Ball (E) [!];Technos;;;;;;;;;;;;;;
