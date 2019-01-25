@@ -1,4 +1,5 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
+Atari 800;Atari 800;@;;;;;;;;;0;;;;;
 Amstrad CPC;Amstrad CPC;@;;;;;;;;;0;;;;;
 Commodore 64;Commodore 64;@;;;;;;;;;0;;;;;
 Commodore Amiga;Commodore Amiga;@;;;;;;;;;0;;;;;
